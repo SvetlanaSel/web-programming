@@ -1,6 +1,6 @@
-## web-programming
+# web-programming
 
-# html-css-php
+## html-css-php
 
 Лабораторная работа 4
 - [Лабораторная работа 4 html]()
@@ -10,4 +10,4 @@
 - [Лабораторная работа 5 html]()
 - [Лабораторная работа 5 css]()
 
-# jscript
+## jscript
